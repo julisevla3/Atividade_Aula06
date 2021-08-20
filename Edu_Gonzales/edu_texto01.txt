@@ -1,3 +1,8 @@
 Olá Mundo!! 01
 
+<<<<<<< HEAD
 012345
+=======
+Hello world!!
+>>>>>>> ee0cf91a9658d84f8403267febf82dd06bf6cca3
+ 09052000
